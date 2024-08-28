@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ⚡ Research interests: Trusted AI, blockchain, federated learning
 
-- 🧑🏻‍💻 Development direction: Backend (Go-oriented) && Frontend (Vue-oriented)
+- 🧑🏻‍💻 Development ability: Backend (Go-oriented) && Frontend (Vue-oriented)
 
 - 💭 Life is a Markov Chain ~
 
