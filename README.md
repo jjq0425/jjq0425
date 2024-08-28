@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University
 -->
 
-- ⚡ Research interests: Trusted AI, blockchain, federated learning
+- ⚡ Research interests: Trusted AI, Federated learning, Blockchain, Differential Privacy
 
 - 🧑🏻‍💻 Development ability: Backend (Go-oriented) && Frontend (Vue-oriented)
 
