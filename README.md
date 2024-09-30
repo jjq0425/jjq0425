@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently studying at the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC)
 
-<!--
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University
--->
 
 - ⚡ Research interests: Trusted AI, Federated learning, Blockchain, Differential Privacy
 
