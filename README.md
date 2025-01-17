@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University
 
-- ⚡ Research interests: System security (Especially in Linux) , Blockchain, Differential Privacy
+- ⚡ Research interests: System security (Especially in Linux) , Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy
 
-- 🧑🏻‍💻 Development ability: Backend (Go-oriented) && Frontend (Vue-oriented)
+- 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
 - 💭 Life is a Markov Chain ~
 
@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <img alt="Gin" src="https://img.shields.io/badge/-Gin-008ECF?style=flat-square&logo=gin&logoColor=white" /> 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> 
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img alt="RabbitMq" src="https://img.shields.io/badge/-rabbitmq-FF6600?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-coffeescript-339af0?style=flat-square&logo=spring&logoColor=white" /> 
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> 
 
   
