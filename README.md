@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University (PKU)
 
-- ⚡ Research interests: System security (Especially in Linux) , Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy
+- ⚡ Research interests: Secure System and Data
+
+  - _Examples include: System security (Especially in Linux) , Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy_
 
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
