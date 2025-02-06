@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University (PKU)
 
-  - _目前是研0_
+  - _I'm currently a prospective postgraduate student awaiting enrollment. （目前是研0）_
 
 - ⚡ Research interests: Secure System and Data
 
