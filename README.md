@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University (PKU)
 
+  - _目前是研0_
+
 - ⚡ Research interests: Secure System and Data
 
   - _Examples include: System security (Especially in Linux) , Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy_
