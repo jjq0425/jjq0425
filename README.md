@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   - _I'm currently a prospective postgraduate student awaiting enrollment. （目前是研0）_
 
-- ⚡ Research interests: Secure System and Data
+- ⚡ Research interests: AI oriented system security, Secure System and Data
 
   - _Examples include: System security (Especially in Linux) , AI for security, Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy_
   - _Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence._
@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
 - 💼 Internship :
-  - MeiTuan, Order Fulfillment Department, _comming soon_
+  - **MeiTuan**, Order Fulfillment Department, _comming soon_
+ 
+- 🎮 Game :
+  - I’ve been playing _Plants vs. Zombies: Fusion_ lately – surprisingly fun, even though I’m not much of a gamer.
 
 - 📫 How to reach me:
   - Email: jiangjinqian_github@2925.com _(Not a frequently used email, slow response time.)_
