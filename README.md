@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
+- 💼 Internship :
+  - MeiTuan, Order Fulfillment Department, _comming soon_
+
 - 📫 How to reach me:
   - Email: jiangjinqian_github@2925.com _(Not a frequently used email, slow response time.)_
 
