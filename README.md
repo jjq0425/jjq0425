@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently studying at the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC)
+- 🔭 I have obtained a bachelor's degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
 
 - 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University (PKU)
 
