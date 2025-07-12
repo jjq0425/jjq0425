@@ -13,23 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 
 -->
 
-- 🔭 I have obtained a bachelor's degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC).
 
-- 🌱 Pre graduate student at the School of Software and Microelectronics, Peking University (PKU)
 
-  - _I'm currently a prospective postgraduate student awaiting enrollment. （目前是研0）_
+- 🌱 Education:
+  - _Master of Engineering (Expected)_ | School of Software and Microelectronics, Peking University (PKU), **2025 – 2028**
+  - _Bachelor of Engineering_ | School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), **2021 – 2025**
 
 - ⚡ Research interests: AI oriented system security, Secure System and Data
 
-  - _Examples include: System security (Especially in Linux) , AI for security, Blockchain, Cloud Computing (Resource Virtualization), Differential Privacy_
+  - _Examples include: System security (Especially in Linux) , AI for security, Blockchain, Root cause anaysisi(RCA), Cloud Computing (Resource Virtualization)_
   - _Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence._
 
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
 - 💼 Internship :
-  - **MeiTuan**, Order Fulfillment Department, _2025.05~so far_
+  - **MeiTuan**, Order Fulfillment Department, _2025.05~2025.09(Expected)_
  
 - 🎮 Game :
   - I’ve been playing _Plants vs. Zombies: Fusion_ lately – surprisingly fun, even though I’m not much of a gamer.
