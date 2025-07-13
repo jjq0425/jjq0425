@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
 - 💼 Internship :
-  - **MeiTuan**, Order Fulfillment Department, _2025.05~2025.09(Expected)_
+  - **MeiTuan**, Order Fulfillment Tech Department, _2025.05~2025.09(Expected)_
  
 - 🎮 Game :
   - I’ve been playing _Plants vs. Zombies: Fusion_ lately – surprisingly fun, even though I’m not much of a gamer.
