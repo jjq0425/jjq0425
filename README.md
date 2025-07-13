@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 Education:
-  - _Master of Engineering (Expected)_ | School of Software and Microelectronics, Peking University (PKU), **2025 – 2028**
-  - _Bachelor of Engineering_ | School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), **2021 – 2025**
+  - _Master of Engineering (Expected)_ | School of Software and Microelectronics, **Peking University (PKU)**, 2025 – 2028
+  - _Bachelor of Engineering_ | School of Information and Software Engineering, **University of Electronic Science and Technology of China (UESTC)**, 2021 – 2025
 
 - ⚡ Research interests: AI oriented system security, Secure System and Data
 
