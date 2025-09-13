@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - ⚡ Research interests: AI oriented system security, Secure System and Data
 
-  - _Examples include: System security (Especially in Linux) , AI for security, Blockchain, Root cause anaysisi(RCA), Cloud Computing (Resource Virtualization)_
+  - _Examples include: Agent security, System security (Especially in Linux) , AI for security, Blockchain, Root cause anaysisi(RCA), Cloud Computing (Resource Virtualization)_
   - _Although I don’t specialize in AI research, I maintain a keen interest in artificial intelligence._
 
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
