@@ -29,11 +29,16 @@ Here are some ideas to get you started:
 
 - 🧑🏻‍💻 Development ability: Backend (Go & Java-oriented) && Frontend (Vue-oriented)
 
+- 🏦 I’ve got a tiny bit of financial know-how ~
+
 - 💼 Internship :
   - **MeiTuan**, Order Fulfillment Tech Department, _2025.05~2025.09_， AI for ops
  
 - 🎮 Game :
   - I’ve been playing _Plants vs. Zombies: Fusion_ lately – surprisingly fun, even though I’m not much of a gamer.
+
+- 😊 Always on the hunt for the next internet rabbit hole 🕳️
+  - happy to beta-test your MVP.
 
 - 📫 How to reach me:
   - Email: jiangjinqian_github@2925.com _(Not a frequently used email, slow response time.)_
