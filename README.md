@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🏦 I’ve got a tiny bit of financial know-how ~
 
 - 💼 Internship :
-  - **MeiTuan**, Order Fulfillment Tech Department, _2025.05~2025.09_， AI for ops
+  - **MeiTuan**, Order Fulfillment Tech Department， AI for ops
  
 - 🎮 Game :
   - I’ve been playing _Plants vs. Zombies: Fusion_ lately – surprisingly fun, even though I’m not much of a gamer.
